@@ -4,7 +4,7 @@ import pandas as pd
 def convert_df(df):
    return df.to_csv(index=False).encode('utf-8')
 
-st.set_page_config(layout="wide")
+# st.set_page_config(layout="wide")
 
 st.header("Machine Learning and Natural Language Processing in Clinical Trial Eligibility Criteria Parsing")
 st.subheader("A Scoping Review")
