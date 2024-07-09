@@ -93,4 +93,8 @@ with tab2:
 
 with tab3:
 
+    st.info("""
+    Move the mouse over the table widget and click on the expand button that will appear in the upper right corner to view the entire table with all columns.
+    """)
+
     st.dataframe(df_tab3)
