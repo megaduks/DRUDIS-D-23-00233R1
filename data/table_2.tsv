@@ -1,0 +1,83 @@
+Article	DOI	country (author)	country (research)	therapeutic area	general character
+Study of Pre-trained Language Models for Named Entity Recognition in Clinical Trial Eligibility Criteria from Multiple Corpora	10.1109/ICHI52183.2021.00095	USA	not specified	not specified	model evaluation
+Accuracy of an Artificial Intelligence System for Cancer Clinical Trial Eligibility Screening: Retrospective Pilot Study	10.2196/27767	USA	USA	breast cancer	software presentation
+Extending the Query Language of a Data Warehouse for Patient Recruitment	10.3233/978-1-61499-808-2-152	Germany	Germany	stroke	research paper
+An Evaluation of Pretrained BERT Models for Comparing Semantic Similarity Across Unstructured Clinical Trial Texts	10.3233/SHTI210848	USA	not specified	not specified	model evaluation
+Automated classification of eligibility criteria in clinical trials to facilitate patient-trial matching for specific patient populations	10.1093/jamia/ocw176	USA	not specified	oncology	research paper
+A Unified Machine Reading Comprehension Framework for Cohort Selection	10.1109/JBHI.2021.3095478	China	not specified	not specified	research paper
+ASCOT: A text mining-based web-service for efficient search and assisted creation of clinical trials	10.1186/1472-6947-12-S1-S3	UK	UK	not specified	software presentation
+Cohort selection for clinical trials using deep learning models	10.1093/jamia/ocz139	Spain	not specified	not specified	model evaluation
+EliIE: An open-source information extraction system for clinical trial eligibility criteria	10.1093/jamia/ocx019	USA	USA	Alzheimer's disease	software presentation
+Classifying Eligibility Criteria in Clinical Trials Using Active Deep Learning	10.1109/ICMLA.2018.00052	USA	USA	not specified	research paper
+Protocol Feasibility Workflow Using an Automated Multi-country Patient Cohort System	10.3233/978-1-61499-432-9-985	Germany	not specified	not specified	research paper
+Assessing clinical trial eligibility with logic expression queries	10.1016/j.datak.2007.07.005	USA	not specified	not specified	research paper
+Improving the efficiency of clinical trial recruitment using electronic health record data, natural language processing, and machine learning	10.1002/art.41108	USA	USA	rheumatoid arthritis	research paper
+Automatic trial eligibility surveillance based on unstructured clinical data	10.1016/j.ijmedinf.2019.05.018	USA	not specified	breast cancer	research paper
+Information Extraction from Free Text in Clinical Trials with Knowledge-based Distant Supervision	10.1109/COMPSAC.2019.00158	USA	USA	not specified	research paper
+ETACTS: A method for dynamically filtering clinical trial search results	10.1016/j.jbi.2013.07.014	USA	not specified	not specified	software presentation
+A practical method for transforming free-text eligibility criteria into computable criteria	10.1016/j.jbi.2010.09.007	USA, Israel	USA	not specified	research paper
+Evaluation of an artificial intelligence clinical trial matching system in Australian lung cancer patients	10.1093/jamiaopen/ooaa002	Australia, USA	Australia	lung cancer 	software presentation
+Increasing the efficiency of trial-patient matching: automated clinical trial eligibility Pre-screening for pediatric oncology patients	10.1186/s12911-015-0149-3	USA	USA	pediatric oncology	research paper
+An eligibility criteria query language for heterogeneous data warehouses	10.3414/ME13-02-0027	UK	not specified	not specified	research paper
+DeepEnroll: Patient-Trial Matching with Deep Embedding and Entailment Prediction	10.1145/3366423.3380181	USA	not specified	not specified	model evaluation
+Improving Clinical Trial Participant Prescreening With Artificial Intelligence (AI): A Comparison of the Results of AI-Assisted vs Standard Methods in 3 Oncology Trials	10.1177/2168479018815454	USA	USA	oncology	software presentation
+ExaCT: automatic extraction of clinical trial characteristics from journal publications	10.1186/1472-6947-10-56	Canada	not specified	not specified	software presentation
+Building a specialized lexicon for breast cancer clinical trial subject eligibility analysis	10.1177/1460458221989392	USA	USA	breast cancer	dataset presentation
+An OMOP CDM-Based Relational Database of Clinical Research Eligibility Criteria	10.3233/978-1-61499-830-3-950	USA	USA	Alzheimer's disease	dataset presentation
+An Ensemble Learning Strategy for Eligibility Criteria Text Classification for Clinical Trial Recruitment: Algorithm Development and Validation	10.2196/17832	China	China	not specified	model evaluation
+Chia, a large annotated corpus of clinical trial eligibility criteria	10.1038/s41597-020-00620-0	USA	not specified	not specified	dataset presentation
+Cohort selection for clinical trials using multiple instance learning	10.1016/j.jbi.2020.103438	Taiwan, Australia	not specified	not specified	research paper
+Learning Eligibility in Cancer Clinical Trials Using Deep Neural Networks	10.3390/app8071206	Spain	not specified	oncology	model evaluation
+Valx: A System for Extracting and Structuring Numeric Lab Test Comparison Statements from Text	10.3414/ME15-01-0112	China, USA	not specified	diabetes	software presentation
+EMR2vec: Bridging the gap between patient data and clinical trial	10.1016/j.cie.2021.107236	Lebanon, France	not specified	stroke, osteoarthritis, thyroid cancer, prostate cancer, breast cancer, obesity 	software presentation
+How the clinical research community responded to the COVID-19 pandemic: an analysis of the COVID-19 clinical studies in ClinicalTrials.gov	10.1093/jamiaopen/ooab032	USA	not specified	COVID-19	research paper
+DQueST: dynamic questionnaire for search of clinical trials	10.1093/jamia/ocz121	USA	USA	oncology	software presentation
+Conflict discovery and analysis for clinical trials	10.1145/3079452.3079494	USA	not specified	pediatric oncology	research paper
+COVID-19 trial graph: a linked graph for COVID-19 clinical trials	10.1093/jamia/ocab078	USA	not specified	COVID-19	research paper
+Identifying the status of genetic lesions in cancer clinical trial documents using machine learning	10.1186/1471-2164-13-S8-S21	USA	not specified	oncology	model evaluation
+Parsing clinical trial eligibility criteria for cohort query by a multi-input multi-output sequence labeling model	10.1101/2021.11.18.21266533	USA	not specified	Alzheimer's disease	model evaluation
+Transformer-Based Named Entity Recognition for Parsing Clinical Trial Eligibility Criteria	10.1145/3459930.3469560	USA	USA	not specified	model evaluation
+Cohort Selection for Clinical Trials From Longitudinal Patient Records: Text Mining Approach	10.2196/15980	UK	not specified	not specified	software presentation
+Medical knowledge infused convolutional neural networks for cohort selection in clinical trials	10.1093/jamia/ocz128	Taiwan	not specified	not specified	research paper
+Semantic categorization of Chinese eligibility criteria in clinical trials using machine learning methods	10.1186/s12911-021-01487-w	China	China	hepatocellular carcinoma	research paper
+Building an OMOP common data model-compliant annotated corpus for COVID-19 clinical trials	10.1016/j.jbi.2021.103790	USA	USA	COVID-19	research paper
+Improving Disease Named Entity Recognition for Clinical Trial Matching	10.1109/BIBM47256.2019.8983421	USA	not specified	not specified	model evaluation
+Analysis of eligibility criteria representation in industry-standard clinical trial protocols	10.1016/j.jbi.2013.06.001	USA	not specified	pain therapeutics	research paper
+Syntactic and Semantic Knowledge-Aware Paraphrase Detection for Clinical Data	10.1007/978-981-16-2937-2_13	India	not specified	not specified	model evaluation
+Criteria2Query: A natural language interface to clinical databases for cohort definition	10.1093/jamia/ocy178	USA	not specified	Alzheimer's disease	software presentation
+Textual inference for eligibility criteria resolution in clinical trials	10.1016/j.jbi.2015.09.008	USA, Chile	not specified	coronary artery disease	dataset presentation
+Inferring appropriate eligibility criteria in clinical trial protocols without labeled data	10.1145/2390068.2390074	UK	not specified	not specified	research paper
+Formulating queries for assessing clinical trial eligibility	10.1007/11765448_8	USA	not specified	not specified	software presentation
+Numerical Eligibility Criteria in Clinical Protocols: Annotation, Automatic Detection and Interpretation	10.1007/978-3-319-59758-4_22	France, Brazil	not specified	not specified	model evaluation
+Automated learning of domain taxonomies from text using background knowledge	10.1016/j.jbi.2016.09.002	USA	not specified	cardiovascular disease, Alzheimer's disease, breast cancer	software presentation 
+Feasibility of Feature-based Indexing, Clustering, and Search of Clinical Trials	10.3414/ME12-01-0092	USA	not specified	breast cancer	research paper
+Predictive modeling of clinical trial terminations using feature engineering and embedding learning	10.1038/s41598-021-82840-x	USA	not specified	not specified	research paper
+Automated clinical trial eligibility prescreening: increasing the efficiency of patient identification for clinical trials in the emergency department	10.1136/amiajnl-2014-002887	USA	USA	pediatrics	research paper
+Supporting Patient Screening to Identify Suitable Clinical Trials	10.3233/978-1-61499-432-9-823	Netherlands, Belgium, Spain	not specified	breast cancer	software presentation
+Attention-Based LSTM Network for COVID-19 Clinical Trial Parsing	10.1109/BigData50022.2020.9378451	USA, Switzerland	not specified	COVID-19	model evaluation
+Patterns for conflict identification in clinical trial eligibility criteria	10.1109/HealthCom.2016.7749519	USA	not specified	pediatric oncology	research paper
+Artificial Intelligence Tool for Optimizing Eligibility Screening for Clinical Trials in a Large Community Cancer Center	10.1200/CCI.19.00079	USA	USA	breast cancer	software presentation
+Clinical Trial Information Extraction with BERT	10.1109/ICHI52183.2021.00092	USA, Switzerland	not specified	not specified	model evaluation
+A knowledge base of clinical trial eligibility criteria	10.1016/j.jbi.2021.103771	USA	not specified	not specified	dataset presentation
+Classification And Extraction Of Medical Clinical Trial Screening Standard Texts Based On Bi-Lstm And Attention Mechanism	10.1088/1755-1315/632/5/052088	China	China	not specified	model evaluation
+Understanding Common Key Indicators Of Successful And Unsuccessful Cancer Drug Trials Using A Contrast Mining Framework On Clinicaltrials.Gov	10.1016/j.jbi.2023.104321	USA	USA	oncology	research paper
+A Comparative Study Of Pre-Trained Language Models For Named Entity Recognition In Clinical Trial Eligibility Criteria From Multiple Corpora	10.1186/s12911-022-01967-7	USA	not specified	not specified	model evaluation
+Improving Clinical Trial Design Using Interpretable Machine Learning Based Prediction Of Early Trial Termination	10.1038/s41598-023-27416-7	UK	not specified	not specified	research paper
+Combining Human And Machine Intelligence For Clinical Trial Eligibility Querying	10.1093/jamia/ocac051	USA	not specified	COVID-19, Alzheimer's disease	software presentation
+A Scalable Ai Approach For Clinical Trial Cohort Optimization	10.1007/978-3-030-93733-1_36	USA, Switzerland	not specified	breast cancer	research paper
+The Leaf Clinical Trials Corpus: A New Resource For Query Generation From Clinical Trial Eligibility Criteria	10.1038/s41597-022-01521-0	USA	not specified	not specified	dataset presentation
+Piloting An Automated Clinical Trial Eligibility Surveillance And Provider Alert System Based On Artificial Intelligence And Standard Data Models	10.1186/s12874-023-01916-6	Netherlands, USA	USA	cardiovascular disease, oncology	software presentation
+Hint: Hierarchical Interaction Network For Clinical-Trial-Outcome Predictions	10.1016/j.patter.2022.100445	USA	not specified	not specified	model evaluation
+Predicting Publication Of Clinical Trials Using Structured And Unstructured Data: Model Development And Validation Study	10.2196/38859	Australia 	not specified	not specified	research paper
+Growth In Eligibility Criteria Content And Failure To Accrue Among National Cancer Institute (Nci)-Affiliated Clinical Trials	10.1002/cam4.5276	USA, Netherlands	USA	oncology	research paper
+Utilizing Large Language Models For Enhanced Clinical Trial Matching: A Study On Automation In Patient Screening	10.7759/cureus.60044	USA	not specified	not specified	model evaluation
+Autocriteria: A Generalizable Clinical Trial Eligibility Criteria Extraction System Powered By Large Language Models	10.1093/jamia/ocad218	USA	not specified	breast cancer, multiple myeloma, Alzheimer's disease, NASH, IBD, rare diseases	model evaluation
+Automatic Assessment Of Patient Eligibility By Utilizing Nlp And Rule-Based Analysis	10.1109/EMBC40787.2023.10340494	Singapore	not specified 	cardiovascular disease	model evaluation
+Characterisation Of Digital Therapeutic Clinical Trials: A Systematic Review With Natural Language Processing	10.1016/S2589-7500(23)00244-3	USA	USA	digital therapeutics	research paper
+Sociotechnical Feasibility Of Natural Language Processing-Driven Tools In Clinical Trial Eligibility Prescreening For Alzheimer'S Disease And Related Dementias	10.1093/jamia/ocae032	USA	not specified 	Alzheimer's disease	research paper
+A Self-Learning Resource-Efficient Re-Ranking Method For Clinical Trials Search	10.1145/3583780.3615174	Australia	not specified	not specified	model evaluation
+Automated Matching Of Patients To Clinical Trials: A Patient-Centric Natural Language Processing Approach For Pediatric Leukemia	10.1200/CCI.23.00009	USA	USA	pediatric leukemia	research paper
+Effective Matching Of Patients To Clinical Trials Using Entity Extraction And Neural Re-Ranking	10.1016/j.jbi.2023.104444	Austria, Italy, UK	not specified	not specified	research paper
+Distilling Large Language Models For Matching Patients To Clinical Trials	10.1109/ICHI57859.2023.00100	USA	not specified	Alzheimer's disease	model evaluation
+Criteria2Query 3.0: Leveraging Generative Large Language Models For Clinical Trial Eligibility Query Generation	10.1016/j.jbi.2024.104649	USA	not specified	not specified	model evaluation
+Treement: Interpretable Patient-Trial Matching Via Personalized Dynamic Tree-Based Memory Network	10.1145/3584371.3612998	USA	not specified	not specified	model evaluation
