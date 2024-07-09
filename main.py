@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-def convert_df(df):
-   return df.to_csv(index=False).encode('utf-8')
 
 # st.set_page_config(layout="wide")
 
@@ -36,7 +34,7 @@ tab1, tab2, tab3 = st.tabs(
 with tab1:
 
     st.info("""
-    Use the slider to limit the year range of publications
+    Use the slider to limit the year range of publications. To download the table as a CSV file, use the download button that will appear in the upper right corner after you move the mouse over the table widget.
     """)
 
     year_min, year_max = st.slider("", 2000, 2024, (2000, 2024))
@@ -45,16 +43,6 @@ with tab1:
     st.dataframe(data, column_config={
         "year": st.column_config.NumberColumn(format="%d")
     })
-
-    csv1 = convert_df(data)
-
-    st.download_button(
-       "Download table",
-       csv1,
-       "list-of-articles.csv",
-       "text/csv",
-       key='download-csv-tab1'
-    )
 
 with tab2:
 
@@ -102,16 +90,6 @@ with tab2:
 
     data = df_tab2[ca_idx & cr_idx & ta_idx & gc_idx]
     st.dataframe(data)
-
-    csv2 = convert_df(data)
-
-    st.download_button(
-       "Download table",
-       csv2,
-       "articles-by-country.csv",
-       "text/csv",
-       key='download-csv-tab2'
-    )
 
 with tab3:
 
