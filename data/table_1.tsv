@@ -79,6 +79,6 @@ A Self-Learning Resource-Efficient Re-Ranking Method For Clinical Trials Search	
 Automated Matching Of Patients To Clinical Trials: A Patient-Centric Natural Language Processing Approach For Pediatric Leukemia	10.1200/CCI.23.00009	2023	To create a patient-trial matching tool for pediatric leukemia.
 Effective Matching Of Patients To Clinical Trials Using Entity Extraction And Neural Re-Ranking	10.1016/j.jbi.2023.104444	2023	To develop a method for clinical trial retrieval for the purpose of patient-trial matching
 Distilling Large Language Models For Matching Patients To Clinical Trials	10.1093/jamia/ocae073	2024	To compare the efficacy of proprietary vs. open-source LLMs in patient-trial matching task.
-Distilling Large Language Models For Matching Patients To Clinical Trials	10.1109/ICHI57859.2023.00100	2023	To develop a pipeline for information extraction from AD clinical trial eligibility criteria.
+Named Entity Recognition and Normalization for Alzheimer's Disease Eligibility Criteria	10.1109/ICHI57859.2023.00100	2023	To develop a pipeline for information extraction from AD clinical trial eligibility criteria.
 Criteria2Query 3.0: Leveraging Generative Large Language Models For Clinical Trial Eligibility Query Generation	10.1016/j.jbi.2024.104649	2024	To create a tool leveraging LLMs for information extraction from eligbility criteria.
 Treement: Interpretable Patient-Trial Matching Via Personalized Dynamic Tree-Based Memory Network	10.1145/3584371.3612998	2023	To develop a model for interpretable patient trial matching.
